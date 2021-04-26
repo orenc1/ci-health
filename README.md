@@ -25,7 +25,7 @@ were issued after the last code push.
 This status is updated every 3 hours. The average values are calculated with
 data from the previous 7 days since the execution time.
 
-### kubevirt/kubevirt
+### kubevirt/hyperconverged-cluster-operator
 
 ![avg-merge-queue-lenght](https://fgimenez.github.io/ci-health/output/kubevirt/kubevirt/merge-queue-length.svg)
 ![avg-time-to-merge](https://fgimenez.github.io/ci-health/output/kubevirt/kubevirt/time-to-merge.svg)
