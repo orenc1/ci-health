@@ -27,11 +27,11 @@ data from the previous 7 days since the execution time.
 
 ### kubevirt/hyperconverged-cluster-operator
 
-![avg-merge-queue-lenght](https://fgimenez.github.io/ci-health/output/kubevirt/kubevirt/merge-queue-length.svg)
-![avg-time-to-merge](https://fgimenez.github.io/ci-health/output/kubevirt/kubevirt/time-to-merge.svg)
-![avg-retests-to-merge](https://fgimenez.github.io/ci-health/output/kubevirt/kubevirt/retests-to-merge.svg)
+![avg-merge-queue-lenght](https://orenc1.github.io/ci-health/output/kubevirt/hyperconverged-cluster-operator/merge-queue-length.svg)  
+![avg-time-to-merge](https://orenc1.github.io/ci-health/output/kubevirt/hyperconverged-cluster-operator/time-to-merge.svg)  
+![avg-retests-to-merge](https://orenc1.github.io/ci-health/output/kubevirt/hyperconverged-cluster-operator/retests-to-merge.svg)  
 
-[Latest execution data](https://fgimenez.github.io/ci-health/output/kubevirt/kubevirt/results.json)
+[Latest execution data](https://orenc1.github.io/ci-health/output/kubevirt/hyperconverged-cluster-operator/results.json)  
 
 [Historical data](https://grafana.ci.kubevirt.io/d/WZU1-LPGz/merge-queue)
 
