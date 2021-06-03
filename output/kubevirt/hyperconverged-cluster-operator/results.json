@@ -1,80 +1,65 @@
 {
- "ExecutionDate": "2021-06-03T12:39:32Z",
+ "ExecutionDate": "2021-06-03T15:28:13Z",
  "DataDays": 7,
  "Source": "kubevirt/hyperconverged-cluster-operator",
  "Data": {
   "AverageMergeQueueLength": {
-   "Avg": 0.29,
-   "Std": 0.45,
+   "Avg": 0.14,
+   "Std": 0.35,
    "DataPoints": [
     {
      "Value": 1,
-     "Date": "2021-06-03T12:39:32.254361977Z",
+     "Date": "2021-06-03T15:28:13.077645447Z",
      "PRs": [
       1374
      ]
     },
     {
      "Value": 0,
-     "Date": "2021-06-02T12:39:32.254361977Z"
+     "Date": "2021-06-02T15:28:13.077645447Z"
     },
     {
      "Value": 0,
-     "Date": "2021-06-01T12:39:32.254361977Z"
-    },
-    {
-     "Value": 1,
-     "Date": "2021-05-31T12:39:32.254361977Z",
-     "PRs": [
-      1373
-     ]
+     "Date": "2021-06-01T15:28:13.077645447Z"
     },
     {
      "Value": 0,
-     "Date": "2021-05-30T12:39:32.254361977Z"
+     "Date": "2021-05-31T15:28:13.077645447Z"
     },
     {
      "Value": 0,
-     "Date": "2021-05-29T12:39:32.254361977Z"
+     "Date": "2021-05-30T15:28:13.077645447Z"
     },
     {
      "Value": 0,
-     "Date": "2021-05-28T12:39:32.254361977Z"
+     "Date": "2021-05-29T15:28:13.077645447Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-05-28T15:28:13.077645447Z"
     }
    ]
   },
   "AverageRetestsToMerge": {
-   "Avg": 0.5,
-   "Std": 0.5,
+   "Avg": 1,
+   "Std": 0,
    "DataPoints": [
     {
      "Value": 1,
      "PRs": [
       1373
-     ]
-    },
-    {
-     "Value": 0,
-     "PRs": [
-      1372
      ]
     }
    ]
   },
   "AverageTimeToMerge": {
-   "Avg": 0.06,
-   "Std": 0.05,
+   "Avg": 0.1,
+   "Std": 0,
    "DataPoints": [
     {
      "Value": 0.1,
      "PRs": [
       1373
-     ]
-    },
-    {
-     "Value": 0.01,
-     "PRs": [
-      1372
      ]
     }
    ]
