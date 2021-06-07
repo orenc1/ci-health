@@ -1,89 +1,87 @@
 {
- "ExecutionDate": "2021-06-07T12:47:04Z",
+ "ExecutionDate": "2021-06-07T15:34:02Z",
  "DataDays": 7,
  "Source": "kubevirt/hyperconverged-cluster-operator",
  "Data": {
   "AverageMergeQueueLength": {
    "Avg": 0.71,
-   "Std": 0.45,
+   "Std": 0.7,
    "DataPoints": [
     {
+     "Value": 0,
+     "Date": "2021-06-07T15:34:02.541337187Z"
+    },
+    {
+     "Value": 2,
+     "Date": "2021-06-06T15:34:02.541337187Z",
+     "PRs": [
+      1377,
+      1374
+     ]
+    },
+    {
      "Value": 1,
-     "Date": "2021-06-07T12:47:04.213386593Z",
+     "Date": "2021-06-05T15:34:02.541337187Z",
+     "PRs": [
+      1374
+     ]
+    },
+    {
+     "Value": 1,
+     "Date": "2021-06-04T15:34:02.541337187Z",
+     "PRs": [
+      1374
+     ]
+    },
+    {
+     "Value": 1,
+     "Date": "2021-06-03T15:34:02.541337187Z",
+     "PRs": [
+      1374
+     ]
+    },
+    {
+     "Value": 0,
+     "Date": "2021-06-02T15:34:02.541337187Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-06-01T15:34:02.541337187Z"
+    }
+   ]
+  },
+  "AverageRetestsToMerge": {
+   "Avg": 1,
+   "Std": 1,
+   "DataPoints": [
+    {
+     "Value": 2,
      "PRs": [
       1379
      ]
     },
     {
-     "Value": 1,
-     "Date": "2021-06-06T12:47:04.213386593Z",
-     "PRs": [
-      1374
-     ]
-    },
-    {
-     "Value": 1,
-     "Date": "2021-06-05T12:47:04.213386593Z",
-     "PRs": [
-      1374
-     ]
-    },
-    {
-     "Value": 1,
-     "Date": "2021-06-04T12:47:04.213386593Z",
-     "PRs": [
-      1374
-     ]
-    },
-    {
-     "Value": 1,
-     "Date": "2021-06-03T12:47:04.213386593Z",
-     "PRs": [
-      1374
-     ]
-    },
-    {
-     "Value": 0,
-     "Date": "2021-06-02T12:47:04.213386593Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-06-01T12:47:04.213386593Z"
-    }
-   ]
-  },
-  "AverageRetestsToMerge": {
-   "Avg": 0.5,
-   "Std": 0.5,
-   "DataPoints": [
-    {
      "Value": 0,
      "PRs": [
       1377
-     ]
-    },
-    {
-     "Value": 1,
-     "PRs": [
-      1373
      ]
     }
    ]
   },
   "AverageTimeToMerge": {
-   "Avg": 0.13,
-   "Std": 0.03,
+   "Avg": 0.24,
+   "Std": 0.09,
    "DataPoints": [
+    {
+     "Value": 0.32,
+     "PRs": [
+      1379
+     ]
+    },
     {
      "Value": 0.15,
      "PRs": [
       1377
-     ]
-    },
-    {
-     "Value": 0.1,
-     "PRs": [
-      1373
      ]
     }
    ]
