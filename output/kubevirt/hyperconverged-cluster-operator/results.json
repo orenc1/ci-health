@@ -1,48 +1,45 @@
 {
- "ExecutionDate": "2021-06-24T06:13:56Z",
+ "ExecutionDate": "2021-06-24T09:11:37Z",
  "DataDays": 7,
  "Source": "kubevirt/hyperconverged-cluster-operator",
  "Data": {
   "AverageMergeQueueLength": {
-   "Avg": 0.14,
-   "Std": 0.35,
+   "Avg": 0,
+   "Std": 0,
    "DataPoints": [
     {
      "Value": 0,
-     "Date": "2021-06-24T06:13:56.069185703Z"
+     "Date": "2021-06-24T09:11:37.660366314Z"
     },
     {
      "Value": 0,
-     "Date": "2021-06-23T06:13:56.069185703Z"
+     "Date": "2021-06-23T09:11:37.660366314Z"
     },
     {
      "Value": 0,
-     "Date": "2021-06-22T06:13:56.069185703Z"
+     "Date": "2021-06-22T09:11:37.660366314Z"
     },
     {
      "Value": 0,
-     "Date": "2021-06-21T06:13:56.069185703Z"
+     "Date": "2021-06-21T09:11:37.660366314Z"
     },
     {
      "Value": 0,
-     "Date": "2021-06-20T06:13:56.069185703Z"
+     "Date": "2021-06-20T09:11:37.660366314Z"
     },
     {
      "Value": 0,
-     "Date": "2021-06-19T06:13:56.069185703Z"
+     "Date": "2021-06-19T09:11:37.660366314Z"
     },
     {
-     "Value": 1,
-     "Date": "2021-06-18T06:13:56.069185703Z",
-     "PRs": [
-      1404
-     ]
+     "Value": 0,
+     "Date": "2021-06-18T09:11:37.660366314Z"
     }
    ]
   },
   "AverageRetestsToMerge": {
-   "Avg": 6.75,
-   "Std": 6.42,
+   "Avg": 5.4,
+   "Std": 6.34,
    "DataPoints": [
     {
      "Value": 1,
@@ -67,25 +64,19 @@
      "PRs": [
       1401
      ]
-    }
-   ]
-  },
-  "AverageTimeToMerge": {
-   "Avg": 0.58,
-   "Std": 0.83,
-   "DataPoints": [
-    {
-     "Value": 0.07,
-     "PRs": [
-      1409
-     ]
     },
     {
      "Value": 0,
      "PRs": [
-      1407
+      1411
      ]
-    },
+    }
+   ]
+  },
+  "AverageTimeToMerge": {
+   "Avg": 0.47,
+   "Std": 0.78,
+   "DataPoints": [
     {
      "Value": 2.01,
      "PRs": [
@@ -96,6 +87,24 @@
      "Value": 0.25,
      "PRs": [
       1401
+     ]
+    },
+    {
+     "Value": 0,
+     "PRs": [
+      1411
+     ]
+    },
+    {
+     "Value": 0.07,
+     "PRs": [
+      1409
+     ]
+    },
+    {
+     "Value": 0,
+     "PRs": [
+      1407
      ]
     }
    ]
