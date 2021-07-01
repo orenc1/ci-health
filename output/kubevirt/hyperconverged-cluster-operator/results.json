@@ -1,56 +1,56 @@
 {
- "ExecutionDate": "2021-07-01T06:13:44Z",
+ "ExecutionDate": "2021-07-01T09:11:43Z",
  "DataDays": 7,
  "Source": "kubevirt/hyperconverged-cluster-operator",
  "Data": {
   "AverageMergeQueueLength": {
-   "Avg": 0.29,
-   "Std": 0.45,
+   "Avg": 0,
+   "Std": 0,
    "DataPoints": [
     {
      "Value": 0,
-     "Date": "2021-07-01T06:13:44.169148786Z"
+     "Date": "2021-07-01T09:11:43.89869909Z"
     },
     {
-     "Value": 1,
-     "Date": "2021-06-30T06:13:44.169148786Z",
+     "Value": 0,
+     "Date": "2021-06-30T09:11:43.89869909Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-06-29T09:11:43.89869909Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-06-28T09:11:43.89869909Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-06-27T09:11:43.89869909Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-06-26T09:11:43.89869909Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-06-25T09:11:43.89869909Z"
+    }
+   ]
+  },
+  "AverageRetestsToMerge": {
+   "Avg": 0.33,
+   "Std": 0.47,
+   "DataPoints": [
+    {
+     "Value": 0,
      "PRs": [
       1417
      ]
     },
     {
-     "Value": 1,
-     "Date": "2021-06-29T06:13:44.169148786Z",
+     "Value": 0,
      "PRs": [
       1415
-     ]
-    },
-    {
-     "Value": 0,
-     "Date": "2021-06-28T06:13:44.169148786Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-06-27T06:13:44.169148786Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-06-26T06:13:44.169148786Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-06-25T06:13:44.169148786Z"
-    }
-   ]
-  },
-  "AverageRetestsToMerge": {
-   "Avg": 0.25,
-   "Std": 0.43,
-   "DataPoints": [
-    {
-     "Value": 0,
-     "PRs": [
-      1411
      ]
     },
     {
@@ -58,23 +58,11 @@
      "PRs": [
       1410
      ]
-    },
-    {
-     "Value": 0,
-     "PRs": [
-      1417
-     ]
-    },
-    {
-     "Value": 0,
-     "PRs": [
-      1415
-     ]
     }
    ]
   },
   "AverageTimeToMerge": {
-   "Avg": 0.04,
+   "Avg": 0.06,
    "Std": 0.04,
    "DataPoints": [
     {
@@ -87,12 +75,6 @@
      "Value": 0.05,
      "PRs": [
       1415
-     ]
-    },
-    {
-     "Value": 0,
-     "PRs": [
-      1411
      ]
     },
     {
