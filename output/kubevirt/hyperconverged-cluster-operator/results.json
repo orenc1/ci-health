@@ -1,58 +1,49 @@
 {
- "ExecutionDate": "2021-08-03T06:13:28Z",
+ "ExecutionDate": "2021-08-03T09:11:21Z",
  "DataDays": 7,
  "Source": "kubevirt/hyperconverged-cluster-operator",
  "Data": {
   "AverageMergeQueueLength": {
-   "Avg": 0,
-   "Std": 0,
+   "Avg": 0.14,
+   "Std": 0.35,
    "DataPoints": [
     {
      "Value": 0,
-     "Date": "2021-08-03T06:13:28.042707229Z"
+     "Date": "2021-08-03T09:11:21.565334859Z"
     },
     {
-     "Value": 0,
-     "Date": "2021-08-02T06:13:28.042707229Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-08-01T06:13:28.042707229Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-07-31T06:13:28.042707229Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-07-30T06:13:28.042707229Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-07-29T06:13:28.042707229Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-07-28T06:13:28.042707229Z"
-    }
-   ]
-  },
-  "AverageRetestsToMerge": {
-   "Avg": 3.4,
-   "Std": 3.5,
-   "DataPoints": [
-    {
-     "Value": 3,
+     "Value": 1,
+     "Date": "2021-08-02T09:11:21.565334859Z",
      "PRs": [
       1460
      ]
     },
     {
-     "Value": 1,
-     "PRs": [
-      1459
-     ]
+     "Value": 0,
+     "Date": "2021-08-01T09:11:21.565334859Z"
     },
+    {
+     "Value": 0,
+     "Date": "2021-07-31T09:11:21.565334859Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-07-30T09:11:21.565334859Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-07-29T09:11:21.565334859Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-07-28T09:11:21.565334859Z"
+    }
+   ]
+  },
+  "AverageRetestsToMerge": {
+   "Avg": 2.83,
+   "Std": 3.44,
+   "DataPoints": [
     {
      "Value": 0,
      "PRs": [
@@ -70,12 +61,30 @@
      "PRs": [
       1452
      ]
+    },
+    {
+     "Value": 0,
+     "PRs": [
+      1461
+     ]
+    },
+    {
+     "Value": 3,
+     "PRs": [
+      1460
+     ]
+    },
+    {
+     "Value": 1,
+     "PRs": [
+      1459
+     ]
     }
    ]
   },
   "AverageTimeToMerge": {
-   "Avg": 0.16,
-   "Std": 0.15,
+   "Avg": 0.13,
+   "Std": 0.13,
    "DataPoints": [
     {
      "Value": 0,
@@ -87,6 +96,12 @@
      "Value": 0.35,
      "PRs": [
       1457
+     ]
+    },
+    {
+     "Value": 0.06,
+     "PRs": [
+      1461
      ]
     },
     {
