@@ -1,58 +1,52 @@
 {
- "ExecutionDate": "2021-09-21T03:31:14Z",
+ "ExecutionDate": "2021-09-21T06:13:36Z",
  "DataDays": 7,
  "Source": "kubevirt/hyperconverged-cluster-operator",
  "Data": {
   "AverageMergeQueueLength": {
-   "Avg": 0,
-   "Std": 0,
+   "Avg": 0.29,
+   "Std": 0.45,
    "DataPoints": [
     {
      "Value": 0,
-     "Date": "2021-09-21T03:31:14.725061915Z"
+     "Date": "2021-09-21T06:13:36.226708142Z"
     },
     {
      "Value": 0,
-     "Date": "2021-09-20T03:31:14.725061915Z"
+     "Date": "2021-09-20T06:13:36.226708142Z"
     },
     {
      "Value": 0,
-     "Date": "2021-09-19T03:31:14.725061915Z"
+     "Date": "2021-09-19T06:13:36.226708142Z"
     },
     {
      "Value": 0,
-     "Date": "2021-09-18T03:31:14.725061915Z"
+     "Date": "2021-09-18T06:13:36.226708142Z"
     },
     {
-     "Value": 0,
-     "Date": "2021-09-17T03:31:14.725061915Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-09-16T03:31:14.725061915Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-09-15T03:31:14.725061915Z"
-    }
-   ]
-  },
-  "AverageRetestsToMerge": {
-   "Avg": 2.13,
-   "Std": 3.55,
-   "DataPoints": [
-    {
-     "Value": 0,
-     "PRs": [
-      1536
-     ]
-    },
-    {
-     "Value": 0,
+     "Value": 1,
+     "Date": "2021-09-17T06:13:36.226708142Z",
      "PRs": [
       1535
      ]
     },
+    {
+     "Value": 0,
+     "Date": "2021-09-16T06:13:36.226708142Z"
+    },
+    {
+     "Value": 1,
+     "Date": "2021-09-15T06:13:36.226708142Z",
+     "PRs": [
+      1529
+     ]
+    }
+   ]
+  },
+  "AverageRetestsToMerge": {
+   "Avg": 2.29,
+   "Std": 3.77,
+   "DataPoints": [
     {
      "Value": 0,
      "PRs": [
@@ -72,12 +66,6 @@
      ]
     },
     {
-     "Value": 1,
-     "PRs": [
-      1527
-     ]
-    },
-    {
      "Value": 10,
      "PRs": [
       1526
@@ -88,12 +76,24 @@
      "PRs": [
       1525
      ]
+    },
+    {
+     "Value": 0,
+     "PRs": [
+      1536
+     ]
+    },
+    {
+     "Value": 0,
+     "PRs": [
+      1535
+     ]
     }
    ]
   },
   "AverageTimeToMerge": {
-   "Avg": 0.16,
-   "Std": 0.19,
+   "Avg": 0.09,
+   "Std": 0.08,
    "DataPoints": [
     {
      "Value": 0.05,
@@ -129,12 +129,6 @@
      "Value": 0.08,
      "PRs": [
       1529
-     ]
-    },
-    {
-     "Value": 0.61,
-     "PRs": [
-      1527
      ]
     },
     {
