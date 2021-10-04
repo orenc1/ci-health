@@ -1,49 +1,64 @@
 {
- "ExecutionDate": "2021-10-04T18:13:14Z",
+ "ExecutionDate": "2021-10-04T21:10:10Z",
  "DataDays": 7,
  "Source": "kubevirt/hyperconverged-cluster-operator",
  "Data": {
   "AverageMergeQueueLength": {
-   "Avg": 0.14,
-   "Std": 0.35,
+   "Avg": 0,
+   "Std": 0,
+   "DataPoints": [
+    {
+     "Value": 0,
+     "Date": "2021-10-04T21:10:10.723864348Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-10-03T21:10:10.723864348Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-10-02T21:10:10.723864348Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-10-01T21:10:10.723864348Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-09-30T21:10:10.723864348Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-09-29T21:10:10.723864348Z"
+    },
+    {
+     "Value": 0,
+     "Date": "2021-09-28T21:10:10.723864348Z"
+    }
+   ]
+  },
+  "AverageRetestsToMerge": {
+   "Avg": 0.8,
+   "Std": 0.75,
    "DataPoints": [
     {
      "Value": 1,
-     "Date": "2021-10-04T18:13:14.400080702Z",
+     "PRs": [
+      1323
+     ]
+    },
+    {
+     "Value": 1,
      "PRs": [
       1554
      ]
     },
     {
      "Value": 0,
-     "Date": "2021-10-03T18:13:14.400080702Z"
+     "PRs": [
+      1552
+     ]
     },
-    {
-     "Value": 0,
-     "Date": "2021-10-02T18:13:14.400080702Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-10-01T18:13:14.400080702Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-09-30T18:13:14.400080702Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-09-29T18:13:14.400080702Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2021-09-28T18:13:14.400080702Z"
-    }
-   ]
-  },
-  "AverageRetestsToMerge": {
-   "Avg": 1,
-   "Std": 0.82,
-   "DataPoints": [
     {
      "Value": 2,
      "PRs": [
@@ -55,25 +70,13 @@
      "PRs": [
       1542
      ]
-    },
-    {
-     "Value": 1,
-     "PRs": [
-      1323
-     ]
     }
    ]
   },
   "AverageTimeToMerge": {
    "Avg": 0.06,
-   "Std": 0.05,
+   "Std": 0.06,
    "DataPoints": [
-    {
-     "Value": 0.13,
-     "PRs": [
-      1323
-     ]
-    },
     {
      "Value": 0.06,
      "PRs": [
@@ -84,6 +87,24 @@
      "Value": 0,
      "PRs": [
       1542
+     ]
+    },
+    {
+     "Value": 0.13,
+     "PRs": [
+      1323
+     ]
+    },
+    {
+     "Value": 0.13,
+     "PRs": [
+      1554
+     ]
+    },
+    {
+     "Value": 0,
+     "PRs": [
+      1552
      ]
     }
    ]
