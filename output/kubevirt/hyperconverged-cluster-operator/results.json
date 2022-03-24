@@ -1,49 +1,64 @@
 {
- "ExecutionDate": "2022-03-24T15:13:56Z",
+ "ExecutionDate": "2022-03-24T18:15:19Z",
  "DataDays": 7,
  "Source": "kubevirt/hyperconverged-cluster-operator",
  "Data": {
   "AverageMergeQueueLength": {
-   "Avg": 0.14,
-   "Std": 0.35,
+   "Avg": 0.29,
+   "Std": 0.45,
    "DataPoints": [
     {
      "Value": 1,
-     "Date": "2022-03-24T15:13:56.560891461Z",
+     "Date": "2022-03-24T18:15:19.484535971Z",
      "PRs": [
       1824
      ]
     },
     {
      "Value": 0,
-     "Date": "2022-03-23T15:13:56.560891461Z"
+     "Date": "2022-03-23T18:15:19.484535971Z"
     },
     {
      "Value": 0,
-     "Date": "2022-03-22T15:13:56.560891461Z"
+     "Date": "2022-03-22T18:15:19.484535971Z"
+    },
+    {
+     "Value": 1,
+     "Date": "2022-03-21T18:15:19.484535971Z",
+     "PRs": [
+      1825
+     ]
     },
     {
      "Value": 0,
-     "Date": "2022-03-21T15:13:56.560891461Z"
+     "Date": "2022-03-20T18:15:19.484535971Z"
     },
     {
      "Value": 0,
-     "Date": "2022-03-20T15:13:56.560891461Z"
+     "Date": "2022-03-19T18:15:19.484535971Z"
     },
     {
      "Value": 0,
-     "Date": "2022-03-19T15:13:56.560891461Z"
-    },
-    {
-     "Value": 0,
-     "Date": "2022-03-18T15:13:56.560891461Z"
+     "Date": "2022-03-18T18:15:19.484535971Z"
     }
    ]
   },
   "AverageRetestsToMerge": {
-   "Avg": 3,
-   "Std": 4.17,
+   "Avg": 3.17,
+   "Std": 4.49,
    "DataPoints": [
+    {
+     "Value": 0,
+     "PRs": [
+      1831
+     ]
+    },
+    {
+     "Value": 0,
+     "PRs": [
+      1828
+     ]
+    },
     {
      "Value": 2,
      "PRs": [
@@ -63,35 +78,23 @@
      ]
     },
     {
-     "Value": 2,
-     "PRs": [
-      1822
-     ]
-    },
-    {
      "Value": 13,
      "PRs": [
       1788
      ]
-    },
+    }
+   ]
+  },
+  "AverageTimeToMerge": {
+   "Avg": 0.1,
+   "Std": 0.13,
+   "DataPoints": [
     {
      "Value": 0,
      "PRs": [
       1831
      ]
     },
-    {
-     "Value": 0,
-     "PRs": [
-      1828
-     ]
-    }
-   ]
-  },
-  "AverageTimeToMerge": {
-   "Avg": 0.11,
-   "Std": 0.13,
-   "DataPoints": [
     {
      "Value": 0.01,
      "PRs": [
@@ -117,21 +120,9 @@
      ]
     },
     {
-     "Value": 0.18,
-     "PRs": [
-      1822
-     ]
-    },
-    {
      "Value": 0.02,
      "PRs": [
       1788
-     ]
-    },
-    {
-     "Value": 0,
-     "PRs": [
-      1831
      ]
     }
    ]
